@@ -1,0 +1,11 @@
+send Request
+GET http://localhost:4000/
+###
+
+send Request
+GET http://localhost:4000/players/
+###
+
+send Request
+GET http://localhost:4000/players/5/
+###
